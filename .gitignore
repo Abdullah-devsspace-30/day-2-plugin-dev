@@ -1,1 +1,4 @@
 *.log
+
+next/
+react/
